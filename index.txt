@@ -4,6 +4,22 @@
 <head> 
 	<meta charset="utf-8"> 
 	<title>Lab 5</title> 
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
+	<h2>Planets</h2>
+	<table>
+	<th>
+	<tr><img src="img/mars.jpg" alt="mars" id="mars"></tr>
+	<tr><img src="img/neptune.jpg" alt="neptune" id="neptune"></tr>
+	<tr><img src="img/saturn.jpg" alt="saturn" id="saturn"></tr>
+	<tr><img src="img/venus.jpg" alt="venus" id="venus"></tr>
+	</th>
+	<th>
+	<tr>Mars</tr>
+	<tr>Neptune</tr>
+	<tr>Saturn</tr>
+	<tr>Venus</tr>
+	<th>
+	
