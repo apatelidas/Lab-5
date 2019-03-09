@@ -1,0 +1,28 @@
+body {
+	background-image: url("media/pluto.jpg");
+	background-size: cover;
+}
+
+h2 {
+	font-family: "Apple Chancery", cursive;
+	color: #FFFFFF;
+	text-align: left;
+}
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid #FFFFFF;
+	padding: 20px;
+}
+table, td, th {
+	font-family: "Apple Chancery", cursive;
+	color: #FFFFFF;
+	height: 20px;
+	border: 5px solid #FSFFFA;
+}
+td, th {
+	text-align: center;
+	height: 20px;
+	padding: 10px;
+	color: #FFFFFF;
+}
